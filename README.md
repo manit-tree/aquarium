@@ -7,3 +7,11 @@ a PWA of beautiful aquarium with lifelike animations of fish and environments
 
 ## Demo
 [https://aquarium.8columns.com](https://aquarium.8columns.com)
+
+## Author
+
+- Mr.Manit Treeprapankit
+
+## Credits
+
+- Beautiful aquarium from [https://youtu.be/M7nRqrBICHs](https://youtu.be/M7nRqrBICHs)
