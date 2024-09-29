@@ -1,0 +1,80 @@
+{
+  "name": "Aquarium",
+  "short_name": "Aquarium",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#121212",
+  "lang": "en",
+  "scope": "/",
+  "description": "Beautiful aquarium on your mobile",
+  "theme_color": "#121212",
+  "orientation": "any",
+  "id": "auarium.8columns.com",
+  "icons": [
+    {
+      "src": "pwa-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./screenshot-ios-01.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg",
+      "platform": "ios",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./screenshot-ios-02.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg",
+      "platform": "ios",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./screenshot-android-01.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg",
+      "platform": "android",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./screenshot-android-02.jpg",
+      "sizes": "1080x1920",
+      "type": "image/jpg",
+      "platform": "android",
+      "form_factor": "narrow"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "categories": [
+    "entertainment",
+    "kids"
+  ],
+  "dir": "auto",
+  "prefer_related_applications": true,
+  "handle_links": "preferred",
+  "edge_side_panel": {
+    "preferred_width": 480
+  }
+}

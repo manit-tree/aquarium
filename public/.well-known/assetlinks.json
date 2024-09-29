@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.app_8columns.aquarium.twa",
+        "sha256_cert_fingerprints": ["18:92:1C:54:21:89:CF:80:7F:9D:E8:40:57:58:01:B0:B2:D5:18:CB:8D:0A:CF:45:C4:FA:AE:DF:05:30:51:95"]
+      }
+    }]

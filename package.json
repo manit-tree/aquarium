@@ -1,0 +1,23 @@
+{
+  "name": "aquarium",
+  "description":"a PWA of beautiful aquarium with lifelike animations of fish and environments",
+  "version": "1.0.24",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 192.168.0.25",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "preact": "^10.21.0",
+    "@preact/preset-vite": "^2.8.2",
+    "@vite-pwa/assets-generator": "^0.2.4",
+    "vite": "^5.2.10",
+    "vite-plugin-pwa": "^0.20.0",
+    "workbox-window": "^7.1.0"
+  },
+  "overrides": {
+    "sharp": "0.32.6",
+    "sharp-ico": "0.1.5"
+  }
+}
